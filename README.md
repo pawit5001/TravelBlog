@@ -1,6 +1,6 @@
 # TravelBlog
 
-A new Flutter project.
+Travel places information for everyone
 
 ## Getting Started
 
