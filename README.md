@@ -1,3 +1,5 @@
 # TravelBlog
-
-Travel places information for everyone
+- Many popular places
+- Travel tips of place
+- Wishlist places
+- Thai language
