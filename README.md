@@ -1,4 +1,4 @@
-# TravelBlog App
+# TravelBlog App / Recommendation places
 - Many popular places
 - Travel tips of place
 - Wishlist places
